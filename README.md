@@ -1,5 +1,7 @@
 # Field Effect Nukinator
 
+![Screenshot](nukinator.png)
+
 A simple full-stack app to 'deploy nukes' to countries.
 
 Built with React, SocketIO, Express
