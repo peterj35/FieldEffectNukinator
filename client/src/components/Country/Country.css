@@ -1,0 +1,31 @@
+.country {
+    padding: 50px;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    margin: 20px;
+}
+
+.column {
+    width: 40%;
+}
+
+.threat-1 {
+    border: solid rgba(0, 255, 0, .1)
+}
+
+.threat-2 {
+    border: solid rgba(123, 239, 178, 0.3)
+}
+
+.threat-3 {
+    border: solid rgba(252, 214, 112, 0.5)
+}
+
+.threat-4 {
+    border: solid  rgba(236, 100, 75, 0.8)
+}
+
+.threat-5 {
+    border: solid rgba(207, 0, 15, 1)
+}

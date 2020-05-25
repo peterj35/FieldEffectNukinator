@@ -1,0 +1,10 @@
+.newCountry {
+    padding: 50px;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+}
+
+.nc-column {
+    width: 40%;
+}
